@@ -1,0 +1,7 @@
+Temperature_LCD
+
+1) Uses 16x2 LCD from sparkfun https://www.sparkfun.com/products/255
+
+2) DHT22 from adafruit http://www.adafruit.com/product/385
+
+3) Hookup as shown in accompanying image
