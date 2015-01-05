@@ -1,0 +1,17 @@
+=== Gesture radio control ===
+
+1 Parts
+
+	a. APDS 9960 sensor from Sparkfun 
+		https://www.sparkfun.com/products/12787
+		APDS 9960 operates at 3.3 volts and uses i2c serial communication.
+
+	b. Bi directional Logic level converter
+		https://www.sparkfun.com/products/12009
+	
+2. Software
+
+	a. Reuses gesture test sketch provided by sparkfun
+	b. Python script running on Mac OSx to control pandora streaming radio.
+
+
